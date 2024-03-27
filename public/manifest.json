@@ -1,0 +1,8 @@
+{
+  "short_name": "Aeronotes",
+  "name": "Aeronotes world class social notes sharing app",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
